@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mq08BUrVlw8QTT3g3J+G9X2Xoce02rSbL9BaNY4mil2Avp4DPgDj1VIsZ4i/o3Oau247DexjyJO1ibGdA5VQOg==",
+  "dgSpecHash": "eBNL23kP6oEzp4DdQwQcC0oS3SUOk7Vau7h3sxYuWTAoHgLpvnSbifAw/WvIdohNedmN9xbrTNtKaTxBbegTuA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

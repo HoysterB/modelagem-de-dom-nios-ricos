@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
+    "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\ataum\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ataum\\AppData\\Roaming\\NuGet\\NuGet.Config",

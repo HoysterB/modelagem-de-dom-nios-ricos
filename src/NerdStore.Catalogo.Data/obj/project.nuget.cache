@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vMNw8xzbW2GoSDAq1fZmeMLS60P0JEFlBH8jyTlKEhgFIon8UetgJFNXgAuP8Pab680hR2EnOr8tDTOi/q7wQ==",
+  "dgSpecHash": "NPVh7o3gAT6lMv+hzsqS3c9Dsi4o+EjYklj7K8yINh560loENSW1UudEVYBEatcOIRGVvKOp5a7V720M3q80cg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

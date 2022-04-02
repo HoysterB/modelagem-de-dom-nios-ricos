@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRpD/eOjoy30zmrRiGoFkzq2iWupfoHD6XrX3CI/ZvKsjzqcemN9cthr8GigTZ2C5kmP4r+11hgD9Rt1Z3yKJQ==",
+  "dgSpecHash": "uAywAa1TebSO98GMfLcb58IMeS1r/wAJpWx+f47Ny4TdQg1WxvBlhdfkNi6mQHln+42PTGDa+j60GM4kzi6Z9w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -6415,11 +6415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectUniqueName": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "projectName": "NerdStore.WebApp.MVC",
-      "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "packagesPath": "C:\\Users\\ataum\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\obj\\",
+      "outputPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ataum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6436,17 +6436,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
-              "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
+            "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+              "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
             },
-            "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
-              "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+            "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+              "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
             },
-            "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-              "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+            "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
             },
-            "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             }
           }
         }

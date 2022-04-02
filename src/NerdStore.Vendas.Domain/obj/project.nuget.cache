@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrovsNX1MOx6/pnFsqe/HNgYZ7o9iMvDt2/5WZ315mRhytKjoiMqchlXPCvsAUTK2H+H223LoU31j2SHTWLuOw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ataum\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFHkLvsXXuz/MqgN+YZwU2FvgtM3C1WS3dUQG3qaaGAP7ssmzgxGuExzueed/0bXmYIS8tJXU5rJ5ix8uo715w==",
+  "dgSpecHash": "Lq07TlH+mHrpNfMMk6C6MniNV05hg3ELIyY/qIbg/aiJSRKIDZKtwptHpDVyZExlvpecQtW4mhDShso+4vdFkw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

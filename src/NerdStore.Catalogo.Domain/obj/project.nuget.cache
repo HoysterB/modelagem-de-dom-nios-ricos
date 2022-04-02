@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PN2vlGqJiHa7epkdhlj9vkfDvizMnAhOlJu0Qqq42ZOzEM3k0wE7q2aBaGiarVipqSPanFEUxiGhMeRic3+3UQ==",
+  "dgSpecHash": "Mz9fjXqDiEgTf7eWcjcUFTDBBTAo7XntLAM953seuiVfle9vFdG9+Dcvj6E/RRErJCAZmVQWC8IdURPwcLGVag==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
