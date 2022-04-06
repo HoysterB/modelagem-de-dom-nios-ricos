@@ -212,3 +212,4 @@ D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\tests\NerdStore.Catalogo.D
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net5.0\NerdStore.Catalogo.Domain.Tests.pdb
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net5.0\NerdStore.Catalogo.Domain.Tests.genruntimeconfig.cache
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net5.0\ref\NerdStore.Catalogo.Domain.Tests.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net5.0\FluentValidation.dll

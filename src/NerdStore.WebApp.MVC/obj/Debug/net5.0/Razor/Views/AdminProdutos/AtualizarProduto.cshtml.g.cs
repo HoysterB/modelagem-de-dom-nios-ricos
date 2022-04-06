@@ -27,7 +27,7 @@ using NerdStore.WebApp.MVC.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"240368565c08d7aca2d0da4fa940af2bef893bcd", @"/Views/AdminProdutos/AtualizarProduto.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"483c27f6c0b0cb9ac93a4d13b9dbf20a87791be1", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fb067812bb359391c8184da98976d01e122af00a", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_AdminProdutos_AtualizarProduto : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<NerdStore.Catalogo.Application.ViewModels.ProdutoViewModel>
     #nullable disable

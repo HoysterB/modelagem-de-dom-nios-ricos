@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eBNL23kP6oEzp4DdQwQcC0oS3SUOk7Vau7h3sxYuWTAoHgLpvnSbifAw/WvIdohNedmN9xbrTNtKaTxBbegTuA==",
+  "dgSpecHash": "ffZb1rF3NWulSBZrlr9Lkq+dCIhqChEhecbmv5R5VWEY9VMFvJ2n6X/hsSn/pfIBVFJUPeKFHM35zyzaNBNjKg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\ataum\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

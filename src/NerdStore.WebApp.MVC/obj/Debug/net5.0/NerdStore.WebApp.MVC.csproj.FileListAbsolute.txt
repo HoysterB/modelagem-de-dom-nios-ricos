@@ -212,3 +212,13 @@ D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\o
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\NerdStore.WebApp.MVC.pdb
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\NerdStore.WebApp.MVC.genruntimeconfig.cache
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\ref\NerdStore.WebApp.MVC.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\FluentValidation.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Application.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Domain.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Application.pdb
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Domain.pdb
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Data.dll
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\bin\Debug\net5.0\NerdStore.Vendas.Data.pdb
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs

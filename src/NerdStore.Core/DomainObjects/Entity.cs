@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using NerdStore.Core.Messages;
 
 namespace NerdStore.Core.DomainObjects
 {
@@ -6,9 +8,28 @@ namespace NerdStore.Core.DomainObjects
     {
         public Guid Id { get; set; }
 
+        private List<Event> _notificacoes;
+        public IReadOnlyCollection<Event> Notificacoes => _notificacoes?.AsReadOnly();
+
         protected Entity()
         {
             Id = Guid.NewGuid();
+        }
+
+        public void AdicionarEvento(Event evento)
+        {
+            _notificacoes = _notificacoes ?? new List<Event>();
+            _notificacoes.Add(evento);
+        }
+
+        public void RemoverEvento(Event eventItem)
+        {
+            _notificacoes.Remove(eventItem);
+        }
+
+        public void LimparEventos()
+        {
+            _notificacoes?.Clear();
         }
 
         public override bool Equals(object obj)
@@ -24,7 +45,6 @@ namespace NerdStore.Core.DomainObjects
         public static bool operator ==(Entity a, Entity b)
         {
             if (ReferenceEquals(a, null) && ReferenceEquals(b, null)) return true;
-
             if (ReferenceEquals(a, null) || ReferenceEquals(b, null)) return false;
 
             return a.Equals(b);

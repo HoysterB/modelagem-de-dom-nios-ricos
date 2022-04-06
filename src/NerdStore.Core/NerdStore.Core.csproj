@@ -7,10 +7,12 @@
   <ItemGroup>
     <Folder Include="DomainObjects\" />
     <Folder Include="Data\" />
-    <Folder Include="Messages\" />
+    <Folder Include="Messages\CommonMessages\IntegrationEvents\" />
+    <Folder Include="Messages\CommonMessages\Notifications\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
     <PackageReference Include="MediatR" Version="10.0.1" />
   </ItemGroup>
 

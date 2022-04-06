@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq07TlH+mHrpNfMMk6C6MniNV05hg3ELIyY/qIbg/aiJSRKIDZKtwptHpDVyZExlvpecQtW4mhDShso+4vdFkw==",
+  "dgSpecHash": "XvoLUVU9brcJGw/9MIEn1Awq1KqxFVYwtHwlRtmP7gyci7bRSysNT4Jo6FseHL4r4tLrkM1S0dhvUCM/YhgSrw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Desenvolvedor-IO\\Modelando Dominios Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataum\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\ataum\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ataum\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
