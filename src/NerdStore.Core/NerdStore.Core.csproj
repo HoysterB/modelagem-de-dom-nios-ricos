@@ -5,10 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DomainObjects\" />
     <Folder Include="Data\" />
-    <Folder Include="Messages\CommonMessages\IntegrationEvents\" />
+    <Folder Include="DomainObjects\DTO\" />
     <Folder Include="Messages\CommonMessages\Notifications\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
 
   <ItemGroup>

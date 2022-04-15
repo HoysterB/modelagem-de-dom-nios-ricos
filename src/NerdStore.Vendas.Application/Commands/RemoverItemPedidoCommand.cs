@@ -22,7 +22,8 @@ namespace NerdStore.Vendas.Application.Commands
         }
     }
 
-    public class RemoverItemPedidoValidation : AbstractValidator<RemoverItemPedidoCommand>
+    public class RemoverItemPedidoValidation
+        : AbstractValidator<RemoverItemPedidoCommand>
     {
         public RemoverItemPedidoValidation()
         {

@@ -222,3 +222,4 @@ D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\b
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Carrinho\Index.cshtml.g.cs
 D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Projects\Desenvolvedor-IO\Modelando Dominios Ricos\src\NerdStore.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs
