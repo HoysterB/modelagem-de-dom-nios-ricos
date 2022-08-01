@@ -9,10 +9,12 @@
   <ItemGroup>
     <Folder Include="DomainObjects\" />
     <Folder Include="Data\" />
-    <Folder Include="Mediator\" />
+    <Folder Include="Messages\CommonMessages\IntegrationEvents\" />
+    <Folder Include="Messages\CommonMessages\Notifications\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.1.0" />
     <PackageReference Include="MediatR" Version="10.0.1" />
   </ItemGroup>
 

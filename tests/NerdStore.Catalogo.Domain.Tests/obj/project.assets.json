@@ -8,6 +8,15 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "FluentValidation/11.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {}
+        }
+      },
       "MediatR/10.0.1": {
         "type": "package",
         "dependencies": {
@@ -1710,6 +1719,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "FluentValidation": "11.1.0",
           "MediatR": "10.0.1"
         },
         "compile": {
@@ -1771,6 +1781,27 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "FluentValidation/11.1.0": {
+      "sha512": "Ld7w+2jOmnhQqFkngEGuEWTRa5j6u4Xzli7jKxRtbA5PtuHHcpin01qxvxYL0LomeJuzRMGAOURu2rKONdjKQA==",
+      "type": "package",
+      "path": "fluentvalidation/11.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.1.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "MediatR/10.0.1": {
@@ -6071,11 +6102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
       "projectName": "NerdStore.Catalogo.Domain.Tests",
-      "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+      "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\alexandretaumaturgo\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\obj\\",
+      "outputPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexandretaumaturgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6093,8 +6124,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-              "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+            "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+              "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
             }
           }
         }

@@ -71,12 +71,14 @@ public class Produto : Entity, IAggregateRoot
         return QuantidadeEstoque >= quantidade;
     }
 
-    public override void EhValido()
+    public override bool EhValido()
     {
         Validacoes.ValidarSeVazio(Nome, "O campo nome do produto não pode estar vazio");
         Validacoes.ValidarSeVazio(Descricao, "O campo descricao do produto não pode estar vazio");
         Validacoes.ValidarSeIgual(CategoriaId, Guid.Empty, "O Campo categoriaId do produto não pode ser vazio");
         Validacoes.ValidarSeVazio(Imagem, "Campo imagem não pode estar vazio");
         Validacoes.ValidarSeMenorQue(Valor, 0, "Valor não pode ser menor que zero");
+
+        return true;
     }
 }

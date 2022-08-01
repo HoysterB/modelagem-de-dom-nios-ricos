@@ -42,5 +42,5 @@ public abstract class Entity
         return $"{GetType().Name} [Id={Id}]";
     }
 
-    public abstract void EhValido();
+    public abstract bool EhValido();
 }

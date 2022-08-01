@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj": {}
+    "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\alexandretaumaturgo\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexandretaumaturgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[10.0.1, )"
@@ -65,14 +69,14 @@
         }
       }
     },
-    "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+    "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "projectName": "NerdStore.Catalogo.Domain",
-        "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+        "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
         "packagesPath": "C:\\Users\\alexandretaumaturgo\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\obj\\",
+        "outputPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexandretaumaturgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +94,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\BuildingBlocks\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -130,14 +134,14 @@
         }
       }
     },
-    "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj": {
+    "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
         "projectName": "NerdStore.Catalogo.Domain.Tests",
-        "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+        "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\alexandretaumaturgo\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\tests\\NerdStore.Catalogo.Domain.Tests\\obj\\",
+        "outputPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\tests\\NerdStore.Catalogo.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexandretaumaturgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +159,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-                "projectPath": "C:\\repos\\Estudo\\DevIO\\DominiosRicos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+              "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\repos\\Estudo\\DevIO\\modelagem-de-dom-nios-ricos\\src\\Services\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
               }
             }
           }
